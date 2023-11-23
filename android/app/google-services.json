@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "414048783310",
+    "firebase_url": "https://newshub-e0ec7-default-rtdb.firebaseio.com",
+    "project_id": "newshub-e0ec7",
+    "storage_bucket": "newshub-e0ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414048783310:android:e7420935b70626ff98f99f",
+        "android_client_info": {
+          "package_name": "com.example.news_hub_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASjdT6jAQYEXd2RhM0acwtwB3ErQUNG9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
